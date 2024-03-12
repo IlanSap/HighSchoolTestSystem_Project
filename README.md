@@ -20,9 +20,21 @@ Pay attention to the three modules:
 
 Ideally the project will be fully runnable via jar files..
 
+Some examples:
 Login Screen:
 ![Login Screen](https://github.com/IlanSap/HighSchoolTestSystem_Project/assets/106005589/f132c030-dc90-49b2-8ea2-1117b952e28c)
 
-Teacher Main Screen Demo:
+Student- Digital Exam Screen:
+![Student- Digital Exam Screen](https://github.com/IlanSap/HighSchoolTestSystem_Project/assets/106005589/122ab368-c7eb-4fbf-a943-0bae984ea560)
+
+Teacher- Main Screen:
 ![Teacher Main Screen Demo](https://github.com/IlanSap/HighSchoolTestSystem_Project/assets/106005589/2f9f98f8-b44c-4d80-ba21-58f8641b3665)
+
+Teacher- View Questions Screen:
+![Teacher- View Questions Screen](https://github.com/IlanSap/HighSchoolTestSystem_Project/assets/106005589/62c49dec-aa33-4a63-b35d-68375da843e0)
+
+Teacher- Add Questions Screen:
+![Teacher- Add Question Screen](https://github.com/IlanSap/HighSchoolTestSystem_Project/assets/106005589/a56d145e-e782-4ad9-a022-5037724bf733)
+
+
 
