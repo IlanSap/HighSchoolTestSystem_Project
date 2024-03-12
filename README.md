@@ -1,9 +1,12 @@
 # Software Engineering Course Project, Haifa University 2023
 ## High School Test System - HSTS
-### Group 1
+The High School Test System is a computerized information system designed for managing exams in a high school. Its main objectives are to centralize all exam-related activities, enhance efficiency, and improve the reliability of exam processing. The system aims to achieve the following goals:
 
-
-## Based on an OCSF Mediator Example
+1. Create exams at two levels: (a) Manage a question bank for various subjects, and (b) Generate exams from the question bank.
+2. Facilitate exam administration.
+3. Conduct exam grading and record scores.
+4. Data processing, analysis, and presentation, including generating various statistics on exams, scores, and student performance.
+We utilized Java (OCSF server-clent framework, EVENTBUS), JavaFX GUI, SQL, Hibernate and Git.
 
 ## Structure
 Pay attention to the three modules:
@@ -17,9 +20,7 @@ Pay attention to the three modules:
 3. Run the client using the javafx:run goal in the client module.
 4. Press the button and see what happens!
 
-
 Ideally the project will be fully runnable via jar files..
-
 
 
 Some examples:
