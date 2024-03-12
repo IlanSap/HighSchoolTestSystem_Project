@@ -23,7 +23,7 @@ Pay attention to the three modules:
 Ideally the project will be fully runnable via jar files..
 
 
-Some examples:
+## Some examples:
 
 Login Screen:
 ![Login Screen](https://github.com/IlanSap/HighSchoolTestSystem_Project/assets/106005589/f132c030-dc90-49b2-8ea2-1117b952e28c)
